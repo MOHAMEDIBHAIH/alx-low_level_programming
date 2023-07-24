@@ -1,0 +1,19 @@
+ swap file by the name ".0-reset_to_98.c.swp"
+          owned by: root   dated: Mon Jul 24 13:48:40 2023
+         file name: /alx-low_level_programming/0x05-pointers_arrays_strings/0-reset_to_98.c
+          modified: YES
+         user name: root   host name: ffe8c7cd9bac
+        process ID: 8415 (STILL RUNNING)
+While opening file "0-reset_to_98.c"
+      CANNOT BE FOUND
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r 0-reset_to_98.c"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".0-reset_to_98.c.swp"
+    to avoid this message.
+
+Swap file ".0-reset_to_98.c.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: 
