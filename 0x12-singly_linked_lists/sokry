@@ -1,0 +1,4 @@
+chmod u+x *
+git commit -m "e"
+git add ..
+git push
